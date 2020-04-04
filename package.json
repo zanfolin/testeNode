@@ -1,0 +1,24 @@
+{
+  "name": "testenode",
+  "version": "1.0.0",
+  "description": "Teste da Instalação do Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanfolin/testeNode.git"
+  },
+  "keywords": [
+    "tests",
+    "node",
+    "instalation"
+  ],
+  "author": "Graziani Zanfolin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zanfolin/testeNode/issues"
+  },
+  "homepage": "https://github.com/zanfolin/testeNode#readme"
+}
